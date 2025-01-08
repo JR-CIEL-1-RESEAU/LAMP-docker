@@ -17,7 +17,6 @@ A basic LAMP stack environment built using Docker Compose. It consists of the fo
 > cd docker-compose-lamp/
 > cp sample.env .env
 > docker compose up -d
-// visit localhost
 ```
 
 Your LAMP stack is now ready!! You can access it via `http://localhost`.
